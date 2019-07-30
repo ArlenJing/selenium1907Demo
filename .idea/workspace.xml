@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f29ceadc-199a-40e6-b873-fe3c9917b386" name="Default Changelist" comment="" />
+    <list default="true" id="f29ceadc-199a-40e6-b873-fe3c9917b386" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/meyoung/day2/testGithub.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,17 +36,50 @@
     <favorites_list name="Selenium_Demo190710" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day1/BrowserActionTest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="59" column="18" lean-forward="true" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Tag Library Descriptor" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="64aa6abb-4263-439f-95fc-311bad07d687" />
@@ -54,9 +92,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/meyoung/day1/OpenBrowserTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/meyoung/day1/BrowserActionTest01.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/meyoung/day1/FindElement.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/meyoung/day2/ActionsTest01.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/meyoung/day2/gridTest.java" />
+        <option value="$PROJECT_DIR$/target/testng.tld" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -88,16 +128,72 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="meyoung" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="meyoung" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo190710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo190710" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,6 +207,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideawork\Selenium_Demo190710" />
       <recent name="E:\ideawork\Selenium_Demo190710\drivers" />
     </key>
   </component>
@@ -126,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.gridTest.grid2">
+  <component name="RunManager" selected="TestNG.E:/ideawork/Selenium_Demo190710/testng.xml">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -160,17 +257,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ActionsTest01.clickTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BrowserActionTest01.wintest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Demo190710" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meyoung.day2.*" />
+          <option name="PATTERN" value="com.meyoung.day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.meyoung.day2" />
-      <option name="MAIN_CLASS_NAME" value="com.meyoung.day2.ActionsTest01" />
-      <option name="METHOD_NAME" value="clickTest" />
+      <option name="PACKAGE_NAME" value="com.meyoung.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.meyoung.day1.BrowserActionTest01" />
+      <option name="METHOD_NAME" value="wintest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -179,18 +276,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ActionsTest01.screenShotFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E:/ideawork/Selenium_Demo190710/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Demo190710" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meyoung.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.meyoung.day2" />
-      <option name="MAIN_CLASS_NAME" value="com.meyoung.day2.ActionsTest01" />
-      <option name="METHOD_NAME" value="screenShotFile" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -256,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/ideawork/Selenium_Demo190710/testng.xml" />
+        <item itemvalue="TestNG.BrowserActionTest01.wintest" />
         <item itemvalue="TestNG.gridTest.grid2" />
         <item itemvalue="Application.gridTest" />
         <item itemvalue="TestNG.gridTest.testGrid" />
-        <item itemvalue="TestNG.ActionsTest01.clickTest" />
-        <item itemvalue="TestNG.ActionsTest01.screenShotFile" />
       </list>
     </recent_temporary>
   </component>
@@ -284,20 +373,21 @@
       <workItem from="1563842609424" duration="3264000" />
       <workItem from="1563929325388" duration="7536000" />
       <workItem from="1564034558197" duration="3744000" />
-      <workItem from="1564040589226" duration="409000" />
+      <workItem from="1564040589226" duration="3997000" />
+      <workItem from="1564101248602" duration="2151000" />
+      <workItem from="1564449731550" duration="5659000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次提交">
+      <created>1564041934271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564041934271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ActionsTest01_clickTest - 2019.07.17 at 11h 21m 06s.xml">
-      <configuration name="ActionsTest01.clickTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="gridTest_testGrid - 2019.07.22 at 16h 43m 28s.xml">
-      <configuration name="gridTest.testGrid" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="gridTest_testGrid - 2019.07.22 at 16h 44m 09s.xml">
-      <configuration name="gridTest.testGrid" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="gridTest_testGrid - 2019.07.22 at 16h 52m 34s.xml">
       <configuration name="gridTest.testGrid" configurationId="TestNG" />
     </history-entry>
@@ -319,11 +409,20 @@
     <history-entry file="gridTest_grid2 - 2019.07.24 at 14h 54m 43s.xml">
       <configuration name="gridTest.grid2" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="gridTest_grid2 - 2019.07.30 at 15h 48m 30s.xml">
+      <configuration name="gridTest.grid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BrowserActionTest01_wintest - 2019.07.30 at 15h 49m 57s.xml">
+      <configuration name="BrowserActionTest01.wintest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__ideawork_Selenium_Demo190710_testng_xml - 2019.07.30 at 15h 53m 54s.xml">
+      <configuration name="E:/ideawork/Selenium_Demo190710/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82152000" />
+    <option name="totallyTimeSpent" value="93550000" />
   </component>
-  <component name="TodoView" selected-index="1">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -335,7 +434,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" weight="0.27231467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.26096824" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,17 +443,17 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39869282" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39770868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32733223" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733223" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,6 +467,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0/src.zip!/java/lang/Thread.java">
@@ -408,13 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day1/OpenBrowserTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -435,16 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day2/gridTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day1/TestNgDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -458,16 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day1/BrowserActionTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day2/ActionsTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -475,6 +551,48 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day2/testGithub.java" />
+    <entry file="file://$PROJECT_DIR$/target/testng.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day2/gridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/meyoung/day1/BrowserActionTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="59" column="18" lean-forward="true" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
         </state>
       </provider>
     </entry>

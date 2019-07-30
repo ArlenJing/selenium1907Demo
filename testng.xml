@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="Selenium_Demo190710">
+    <classes>
+      <class name="com.meyoung.day1.BrowserActionTest01">
+        <methods>
+          <include name="backTest"/>
+        </methods>
+      </class> <!-- com.meyoung.day1.BrowserActionTest01 -->
+    </classes>
+  </test> <!-- Selenium_Demo190710 -->
+</suite> <!-- Default Suite -->
